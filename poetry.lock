@@ -1,0 +1,18 @@
+[[package]]
+name = "profilehooks"
+version = "1.12.0"
+description = "Decorators for profiling/timing/tracing individual functions"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "35a550f62d86dd3c4a7fd1f9af0c5ee63fe0597c585bb379af28ce01e4632a38"
+
+[metadata.files]
+profilehooks = [
+    {file = "profilehooks-1.12.0-py2.py3-none-any.whl", hash = "sha256:dc87f319c9596b8c50fd374e3c08c51fa29a61553f1d9281482e4ca31829b021"},
+    {file = "profilehooks-1.12.0.tar.gz", hash = "sha256:05b87589df8a8c630fd701bae6008cc1cfff4457bd0064887ad25248327a5ba3"},
+]
